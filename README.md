@@ -1,3 +1,3 @@
 # BMI Calculator
 
-Body mass index calculator implemented in Python (Tkinter)
+Body mass index calculator implemented in Python (Tkinter).
